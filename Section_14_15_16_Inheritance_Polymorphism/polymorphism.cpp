@@ -1,3 +1,7 @@
+// Inheritance 
+// Concrete Classs => From Base class with all concrete functions : Reusability
+// Abstract Class => From Base class with some concrete functions and some virtual functions: Reusability, Polymorphism
+// Abstract Class (aka Interface in Java) => From Base class with ALL virtual functions: Polymorphism 
 #include <iostream>
 using namespace std;
 class Animal{
