@@ -1,0 +1,20 @@
+First Name: Donkey
+Last Name: Kong
+Account Number: 1
+Balance: 1000
+
+First Name: Kirby
+Last Name: Kirby
+Account Number: 2
+Balance: 200
+
+First Name: Koopa
+Last Name: Troopa
+Account Number: 3
+Balance: 10100
+
+First Name: Hoopa
+Last Name: Hoopa
+Account Number: 4
+Balance: 1e+06
+
